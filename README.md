@@ -1,4 +1,4 @@
-# ✨ Hey, I’m Sharlee ✨
+# ✨ Hey, I’m Khabib ✨
 
 - 🖥️ I'm a software developer,
 - 🖌️ a graphic designer,
