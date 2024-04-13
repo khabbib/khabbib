@@ -1,4 +1,4 @@
-# ✨ Hey, I’m Khabib ✨
+# ✨ Hello there ✨
 
 - 🖥️ I'm a software developer,
 - 🖌️ a graphic designer,
