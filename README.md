@@ -4,7 +4,7 @@
 - 🖌️ a graphic designer,
 - 📏 an ux/ui designer,
 
-Check out my portfolio at https://www.devstud.se
+Check out my portfolio at [https://www.devstud.se](https://khabbib.netlify.app/)
 
 <!---
 itssharlee/itssharlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
